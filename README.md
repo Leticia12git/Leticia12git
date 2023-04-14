@@ -1,4 +1,4 @@
-### Ola! Eu sou a Letícia Lima 👋
+### Olá! Eu sou a Letícia Lima 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?)](https://www.linkedin.com/in/leticia-lima-silva-/)
 
