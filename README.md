@@ -2,7 +2,7 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?)](https://www.linkedin.com/in/leticia-lima-silva-/)
 
-![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia12&show_icons=true&theme=radical)
+![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia12&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia 
 
