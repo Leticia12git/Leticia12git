@@ -4,6 +4,8 @@
 
 ![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia12&show_icons=true&theme=radical)
 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticia12&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Leticia Lima github stats" />
+
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
