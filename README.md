@@ -9,7 +9,5 @@
 <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
-Apaixonada por tecnologia e sempre em busca de novos desafios ..
-
 
 
