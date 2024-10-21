@@ -1,4 +1,4 @@
-# Hello! I'm Letícia Lima ! 👋
+# Hello, I'm Letícia Lima ! 👋
 
 🚀 Desenvolvedora Backend Java
 
