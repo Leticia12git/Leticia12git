@@ -1,13 +1,14 @@
 # Hello, I'm Letícia Lima ! 👋
 
-🚀 Desenvolvedora Backend Java
+🚀 Java Backend Developer
 
 ---
 
 ### About Me
 
-- 📚 Sempre estudando e evoluindo em tecnologias como **Spring Boot**, **API RESTful**.
--  🤓 Buscando constantemente novos desafios e aprendizados.
+
+- 📚 Always studying and evolving in technologies like **Java**, **Spring Boot**, and **RESTful APIs**.
+- 🤓Constantly seeking new challenges and learning opportunities."
 - 📞 **Contato:** (19) 99288-3885
 
  
