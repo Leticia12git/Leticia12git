@@ -2,6 +2,8 @@
 
 🚀 Desenvolvedora Backend Java
 
+---
+
 ### About Me
 
 - 📚 Sempre estudando e evoluindo em tecnologias como **Spring Boot**, **API RESTful**.
