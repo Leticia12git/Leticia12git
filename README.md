@@ -11,10 +11,10 @@
 ### 🛠️ Here are some of the technologies I use in my day-to-day
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
+</div>
 
 ### 🌍Where to Find Me
 
