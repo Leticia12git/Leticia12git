@@ -8,8 +8,8 @@
 
 
 - 📚 Always studying and evolving in technologies like **Java**, **Spring Boot**, and **RESTful APIs**.
-- 🤓Constantly seeking new challenges and learning opportunities."
-- 📞 **Contato:** (19) 99288-3885
+- 🤓 Constantly seeking new challenges and learning opportunities."
+- 📞 **Contact:** (19) 99288-3885
 
  
  ---
